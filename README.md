@@ -1,4 +1,3 @@
-<div align="center"><img src="/scrots/d.png" align="center"/></div>
 
 # Termplate
 
@@ -45,11 +44,5 @@ Enjoy your cool terminal interface portofolio.
  then clone the repository, to edit directly the html content.</b>
 
 ---
-
-## Contributors
-
-The following people helped in creating the above content.
-
-![thomas154](./image/thomas154.png  "thomas154" )![abhishtagatya](./image/abhishtagatya.png  "abhishtagatya" )
 
 
