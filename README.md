@@ -12,9 +12,6 @@ There are many people out there like me who likes to live in there terminal.
 - This termplate ;) is minimal, very quick to edit and deploy.
 - Responsive-Design.
 
-### Demo
- [Click Here](https://blesson.herokuapp.com/)
-
 ### Scrots
 
 <img src="/scrots/a.png" width="840">
